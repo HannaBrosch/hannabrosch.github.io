@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student at the Technical University of Munich. 
+Hi! I am a PhD student at the Technical University of Munich, specializing in Gender and Labor Economics, Education, and Behavioral Economics. I’m always open to discussions about my research - feel free to reach out!
 
-My main research interest focusses on labor and gender economics and economics of education. Feel free to get in touch with me to discuss my research!
-
-I am a visiting PhD Student at Stanford Graduate School of Education from Oct - Dec 2024. 
+From October to December 2024, I will be a visiting PhD student at Stanford Graduate School of Education, supported by a DAAD scholarship.
 
 
 My research
 ------
-Workers Beliefs about Firm Training (with [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Florian Schoner](https://www.ifo.de/schoner-f))
+Workers Beliefs about Firm Training (with [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Florian Schoner](https://www.ifo.de/schoner-f), draft in preparation)
+
+Navigating the Gender Norms Landscape: Regional Variations and Labor Market Implications" (with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0), draft in preparation)
 
 [Discrimination in the General Population](https://www.iza.org/publications/dp/16984/discrimination-in-the-general-population) (with [Silvia Angerer](https://sites.google.com/umit.at/silvia-angerer/home), [Daniela Glätzle-Rützler](https://sites.google.com/view/daniela-glaetzle-ruetzler/), [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and Thomas Rittmannsberger)
 
