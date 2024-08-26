@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Hanna Brosch"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am a PhD student at the Technical University of Munich, specializing in Gender and Labor Economics, Education, and Behavioral Economics. I’m always open to discussions about my research - feel free to reach out!
+Hi! I am a PhD student at [the Technical University of Munich](https://www.mgt.tum.de/global-center-for-family-enterprise/prof-dr-philipp-lergetporer), specializing in Gender and Labor Economics, Education, and Behavioral Economics.
+
+I’m always open to discussions about my research - feel free to reach out!
 
 From October to December 2024, I will be a visiting PhD student at Stanford Graduate School of Education, supported by a DAAD scholarship.
+
 
 
 My research
