@@ -11,7 +11,7 @@ Hi! I am a PhD student at [the Technical University of Munich](https://www.mgt.t
 
 I’m always open to discussions about my research - feel free to reach out!
 
-From October to December 2024, I will be a visiting PhD student at Stanford Graduate School of Education, supported by a DAAD scholarship.
+From October to December 2024, I was a visiting PhD student at Stanford Graduate School of Education, supported by a DAAD scholarship.
 
 
 
