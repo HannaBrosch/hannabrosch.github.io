@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student at [the Technical University of Munich](https://www.mgt.tum.de/global-center-for-family-enterprise/prof-dr-philipp-lergetporer), interested in Gender and Labor Economics, Education, and Behavioral Economics.
+Hi! I am a PhD student at [the Technical University of Munich](https://www.mgt.tum.de/global-center-for-family-enterprise/prof-dr-philipp-lergetporer), interested in Gender and Labor Economics, Education, and Behavioral Economics. I completed my MSc in Economics at Ludwig Maximilian University of Munich in 2022. During Fall 2024, I was a visiting PhD student at Stanford Graduate School of Education, invited by Eric Bettinger.
 
-I’m always open to discussions about my research - feel free to reach out!
-
-From October to December 2024, I was a visiting PhD student at Stanford Graduate School of Education, supported by a DAAD scholarship.
-
+If you are interested in my research or want to chat - feel free to reach out!
 
 
 My research
 ------
+**Gender Gaps in Preferences for Leadership Tasks**, (single-authored)
+
 **Workers Beliefs about Firm Training**, work in progress (with [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Florian Schoner](https://www.ifo.de/schoner-f))
+
+**On the Economic Determinants of Gender Norms**, work in progress (with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0) and [Helen Zeidler](https://sites.google.com/view/helenzeidler/home))
 
 **Navigating the Gender Norms Landscape: Regional Variations and Labor Market Implications**, work in progress (with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0))
 
