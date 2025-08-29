@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student at [the Technical University of Munich](https://www.mgt.tum.de/global-center-for-family-enterprise/prof-dr-philipp-lergetporer), interested in Gender and Labor Economics, Education, and Behavioral Economics. I completed my MSc in Economics at Ludwig Maximilian University of Munich in 2022. During Fall 2024, I was a visiting PhD student at Stanford Graduate School of Education, invited by Eric Bettinger.
+Hi! I am a PhD student at [the Technical University of Munich](https://www.mgt.tum.de/global-center-for-family-enterprise/prof-dr-philipp-lergetporer), interested in Gender and Labor Economics, Education, and Behavioral Economics. I completed my MSc in Economics at LMU Munich in 2022. During Fall 2024, I was a visiting PhD student at Stanford Graduate School of Education, invited by Eric Bettinger.
 
 If you are interested in my research or want to chat - feel free to reach out!
 
