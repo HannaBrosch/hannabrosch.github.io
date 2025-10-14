@@ -17,9 +17,6 @@ Work in Progress
 **Gender Gaps in Preferences for Leadership Tasks** <br>
   (single-authored)
 
-**Workers Beliefs about Firm Training** <br> 
-(with [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Florian Schoner](https://www.ifo.de/schoner-f))
-
 **On the Economic Determinants of Gender Norms** <br>
 (with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0) and [Helen Zeidler](https://sites.google.com/view/helenzeidler/home))
 
@@ -28,6 +25,8 @@ Work in Progress
 
 Working Papers
 ------
+[**Workers Beliefs about Firm Training**](https://www.iza.org/publications/dp/18186/worker-beliefs-about-firm-training) <br> 
+(with [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Florian Schoner](https://www.ifo.de/schoner-f))
 
 [**Discrimination in the General Population**](https://www.iza.org/publications/dp/16984/discrimination-in-the-general-population)
 <br>
