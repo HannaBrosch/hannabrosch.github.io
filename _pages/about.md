@@ -15,10 +15,13 @@ If you are interested in my research or want to chat - feel free to reach out!
 Work in Progress
 ------
 **Gender Gaps in Preferences for Leadership Tasks** <br>
-  (single-authored)
+  (single-authored, draft available upon request)
+
+ **Beliefs About Gender Inequality in Leadership Positions** <br>
+  (single-authored, draft available upon request) 
 
 **On the Economic Determinants of Gender Norms** <br>
-(with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0) and [Helen Zeidler](https://sites.google.com/view/helenzeidler/home))
+(with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0) and [Helen Zeidler](https://sites.google.com/view/helenzeidler/home), draft available upon request)
 
 **Navigating the Gender Norms Landscape: Regional Variations and Labor Market Implications** <br>
 (with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0))
@@ -32,7 +35,7 @@ Working Papers
 <br>
 (with [Silvia Angerer](https://sites.google.com/umit.at/silvia-angerer/home), [Daniela Glätzle-Rützler](https://sites.google.com/view/daniela-glaetzle-ruetzler/), [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Thomas Rittmannsberger](https://sites.google.com/view/thomasrittmannsberger/home?authuser=0))
 
-Puplication
+Publication
 ------
 [**The impact of family daycare on child development**](https://link.springer.com/article/10.1007/s11618-023-01150-2) <br>
 (with Katharina Heisig and [Larissa Zierow](https://sites.google.com/view/larissa-zierow/home?authuser=0)) <br>
