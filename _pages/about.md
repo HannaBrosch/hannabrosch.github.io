@@ -15,13 +15,16 @@ If you are interested in my research or want to chat - feel free to reach out!
 Work in Progress
 ------
 **Gender Gaps in Preferences for Leadership Tasks** <br>
-  (single-authored, draft available upon request)
+  (single-authored), draft available upon request
 
  **Beliefs About Gender Inequality in Leadership Positions** <br>
-  (single-authored, draft available upon request) 
+  (single-authored), draft available upon request
+
+**Task Expansion with GenAI: Evidence on Middle-Skilled, Early-Career Workers** <br>
+(with [Christina Langer](https://christinalanger.com/Research/), [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), Sandra Mueller, [Harald Pfeifer](https://roa.nl/en/h.pfeifer) and Nele Tschoepe), data collection completed
 
 **On the Economic Determinants of Gender Norms** <br>
-(with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0) and [Helen Zeidler](https://sites.google.com/view/helenzeidler/home), draft available upon request)
+(with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0) and [Helen Zeidler](https://sites.google.com/view/helenzeidler/home)), draft available upon request
 
 **Navigating the Gender Norms Landscape: Regional Variations and Labor Market Implications** <br>
 (with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0))
@@ -33,7 +36,7 @@ Working Papers
 
 [**Discrimination in the General Population**](https://www.iza.org/publications/dp/16984/discrimination-in-the-general-population)
 <br>
-(with [Silvia Angerer](https://sites.google.com/umit.at/silvia-angerer/home), [Daniela Glätzle-Rützler](https://sites.google.com/view/daniela-glaetzle-ruetzler/), [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Thomas Rittmannsberger](https://sites.google.com/view/thomasrittmannsberger/home?authuser=0))
+(with [Silvia Angerer](https://sites.google.com/umit.at/silvia-angerer/home), [Daniela Glätzle-Rützler](https://sites.google.com/view/daniela-glaetzle-ruetzler/), [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics) and [Thomas Rittmannsberger](https://sites.google.com/view/thomasrittmannsberger/home?authuser=0)), Revise and Resubmit, European Economic Review
 
 Publication
 ------
