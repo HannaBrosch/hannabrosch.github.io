@@ -28,7 +28,7 @@ Work in Progress
 
 Working Papers
 ------
-[**On the Economic Determinants of Gender Norms**](https://www.ifo.de/en/cesifo/publications/2026/working-paper/are-gender-norms-shaped-who-earns-more) <br>
+[**Are Gender Norms Shaped by Who Earns More?**](https://www.ifo.de/en/cesifo/publications/2026/working-paper/are-gender-norms-shaped-who-earns-more) <br>
 (with Elisabeth Grewenig, [Philipp Lergetporer](https://sites.google.com/lergetporer.at/philipplergetporereconomics), [Katharina Werner](https://sites.google.com/view/wernerkatharina/home?authuser=0) and [Helen Zeidler](https://sites.google.com/view/helenzeidler/home)), submitted
 
 [**Workers Beliefs about Firm Training**](https://www.iza.org/publications/dp/18186/worker-beliefs-about-firm-training) <br> 
