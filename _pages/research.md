@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 Work in Progress
 ------
 **Gender Gaps in Preferences for Leadership Tasks** <br>
